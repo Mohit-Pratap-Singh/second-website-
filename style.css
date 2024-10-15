@@ -1,0 +1,57 @@
+html{
+	background-color: #243642;
+}
+
+h1{
+	text-transform: uppercase;
+	color: #5356FF;
+	font-size: 3rem;
+	text-align: center;
+	font-weight: bold;
+	margin: 0;
+
+}
+
+p{
+   color: green;
+   text-align: center;
+   font-size: 2rem;
+}
+
+
+img{
+	max-width: 100%;
+	max-height:100%;
+}
+
+.mybro
+{
+	border: 5px solid #80AF81;
+}
+
+.picture{
+	margin top: 100px;
+	margin-left: 35%;
+	width: 400px;
+	height: 400px;
+}
+
+.first,.second,.third{
+	display: inline-block;
+	margin: 120px;
+}
+.first{
+	color: skyblue;
+}
+
+.second{
+	color: red;
+}
+
+.third{
+	color: green;
+}
+
+.movies{
+	background-color: green;
+}
